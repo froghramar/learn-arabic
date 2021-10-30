@@ -6,9 +6,9 @@
     أحلا :sound: Ahlan
 
 -   How are you? \
-    كيف حالك :sound: kaayfa haluka \
-    كيف حالك :sound: Kaayfa haluki \
-    كيف حالكم :sound: Kaayfa halukuma \
-    كيف حالكم :sound: Kaayfa halukum \
-    كيف حالكن :sound: kaayfa halukunna
+    كيف حالك :sound: kaayfa haluka (one male) \
+    كيف حالك :sound: Kaayfa haluki (one female) \
+    كيف حالكم :sound: Kaayfa halukuma (two persons) \
+    كيف حالكم :sound: Kaayfa halukum (three men or over) \
+    كيف حالكن :sound: kaayfa halukunna (three women or over)
 
